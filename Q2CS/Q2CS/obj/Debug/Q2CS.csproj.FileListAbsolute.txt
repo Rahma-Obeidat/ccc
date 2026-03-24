@@ -1,0 +1,8 @@
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\bin\Debug\Q2CS.exe.config
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\bin\Debug\Q2CS.exe
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\bin\Debug\Q2CS.pdb
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\obj\Debug\Q2CS.csproj.AssemblyReference.cache
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\obj\Debug\Q2CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\obj\Debug\Q2CS.csproj.CoreCompileInputs.cache
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\obj\Debug\Q2CS.exe
+C:\Users\gt.rahmeh.obeidat\source\repos\Q2CS\Q2CS\obj\Debug\Q2CS.pdb
