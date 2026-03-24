@@ -8,6 +8,12 @@ namespace Q2CS
 {
     internal class Program
     {
+        class person
+        {
+            public int id;
+            public string name;
+            public int age;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Rahma");
@@ -15,6 +21,7 @@ namespace Q2CS
             Console.WriteLine(1999);
 
             Console.WriteLine( "hhbhbh");
+
 
         }
     }
